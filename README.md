@@ -79,7 +79,7 @@ albert-xiao-knowledge-summarization/
 All python files are scripts. They are meant to be simply run.
 
 ## Demo video
-[![Watch the video](https://github.com/Forward-UIUC-2023S/albert-xiao-knowledge-summarization/assets/25853164/2dbdb127-adfc-4f91-bfb7-d2e02f64a049)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1TFCcr6v0ThLSrFOx5e6xnN7cb6OvO02K/view?usp=sharing))
+[![Watch the video](https://github.com/Forward-UIUC-2023S/albert-xiao-knowledge-summarization/assets/25853164/2dbdb127-adfc-4f91-bfb7-d2e02f64a049)](https://drive.google.com/file/d/1TFCcr6v0ThLSrFOx5e6xnN7cb6OvO02K/view?usp=sharing)
 
 
 ## Algorithmic Design 
