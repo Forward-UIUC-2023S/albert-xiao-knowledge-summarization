@@ -95,6 +95,7 @@ Coreference Resolution: perform pronoun replacement before
 ## Issues and Future Work
 
 Training the RAG encoders is currently WIP
+    
 Train the QFS models for longer and tune hyperparameters
 
 ## Change log
