@@ -79,7 +79,7 @@ albert-xiao-knowledge-summarization/
 All python files are scripts. They are meant to be simply run.
 
 ## Demo video
-[![Watch the video]()]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1TFCcr6v0ThLSrFOx5e6xnN7cb6OvO02K/view?usp=sharing))
+[![Watch the video](https://github.com/Forward-UIUC-2023S/albert-xiao-knowledge-summarization/assets/25853164/2dbdb127-adfc-4f91-bfb7-d2e02f64a049)]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1TFCcr6v0ThLSrFOx5e6xnN7cb6OvO02K/view?usp=sharing))
 
 
 ## Algorithmic Design 
@@ -87,7 +87,7 @@ All python files are scripts. They are meant to be simply run.
 Basic model: fine-tune longformer LED model by passing in all documents and query separated by SEP tokens
 Evidence selection: fine-tune BERT sentence transformer using HotpotQA dataset and contrastive loss function to encode query-evidence pairs such that they have high cosine similarity. Then select top k sentences of each document and query as input to fine-tune BART QFS model
 Coreference Resolution: perform pronoun replacement before
-    
+
     
 ![fwdarchsp23](https://github.com/Forward-UIUC-2023S/albert-xiao-knowledge-summarization/assets/25853164/ca3c9fe1-a6f2-4b00-b4d3-6cfa7386b9f4)
 ![sentfinetune](https://github.com/Forward-UIUC-2023S/albert-xiao-knowledge-summarization/assets/25853164/cd1b9764-cdb2-431f-b278-42860e8d3891)
