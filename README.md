@@ -16,7 +16,7 @@ Installing Dependencies:
 pip install -r requirements.txt 
 ```
 
-
+Since some files are too large, they are attached as google drive links instead.
 
 
 ```
@@ -48,7 +48,7 @@ albert-xiao-knowledge-summarization/
 
 ```
 
-- c4.db - C4 cleaned dataset as an SQLite database file for easy loading
+- c4.db - C4 cleaned dataset as an SQLite database file for easy loading - https://drive.google.com/file/d/1sqwHJIUYmgDfifVMOS1TwpcfvonQcZYY/view?usp=share_link
 - requirements.txt - python library dependencies
 - dpr_eval.py - WIP DPR evaluation script
 - dpr_server.py - DPR server to serve retrieved documents
@@ -68,9 +68,9 @@ albert-xiao-knowledge-summarization/
 - test_on_dataset_control.py - WIP fine tuning QFS model to Ziyi's WikiASTL dataset
 - test_on_dataset.py - WIP fine tuning QFS model to Ziyi's WikiASTL dataset
 - test_sent_fine_tune_bart.py - fine-tuning loop for bart with top k evidence selection
-- train_sent_bart_0_1500.pt - fine-tuned bart checkpoint, 1500 datapoints
-- train_sentence_encoder_saved_data_0_84000.pt - fine-tuned sentence encoder, 84000 datapoints
-- train_similarity_saved_data_mar7_0_1500.pt - fine-funed LED checkpoint, 1500 datapoints
+- train_sent_bart_0_1500.pt - fine-tuned bart checkpoint, 1500 datapoints - https://drive.google.com/file/d/1oEwFdKQmJ_4cdhlFM0Rn077g3xET7aTZ/view?usp=share_link
+- train_sentence_encoder_saved_data_0_84000.pt - fine-tuned sentence encoder, 84000 datapoints - https://drive.google.com/file/d/15tR5rrzyi8AbzAPJZbB2MIqO_uY9wKwA/view?usp=share_link
+- train_similarity_saved_data_mar7_0_1500.pt - fine-funed LED checkpoint, 1500 datapoints - https://drive.google.com/file/d/1n1nRRTlU7kxcXKN--_wZ7sXiJkHkQD-V/view?usp=share_link
 - train.py - training loop for LED basic model
 
 
@@ -79,7 +79,7 @@ albert-xiao-knowledge-summarization/
 All python files are scripts. They are meant to be simply run.
 
 ## Demo video
-
+![vid](https://drive.google.com/file/d/1TFCcr6v0ThLSrFOx5e6xnN7cb6OvO02K/view?usp=sharing)
 
 ## Algorithmic Design 
 
