@@ -79,7 +79,8 @@ albert-xiao-knowledge-summarization/
 All python files are scripts. They are meant to be simply run.
 
 ## Demo video
-![vid](https://drive.google.com/file/d/1TFCcr6v0ThLSrFOx5e6xnN7cb6OvO02K/view?usp=sharing)
+[![Watch the video]()]([https://youtu.be/vt5fpE0bzSY](https://drive.google.com/file/d/1TFCcr6v0ThLSrFOx5e6xnN7cb6OvO02K/view?usp=sharing))
+
 
 ## Algorithmic Design 
 
