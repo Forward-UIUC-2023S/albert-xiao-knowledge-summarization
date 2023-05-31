@@ -99,11 +99,11 @@ Spring 2023 (Albert Xiao)
 
 ## References 
 
-Datasets: AQuaMuSe https://huggingface.co/datasets/aquamuse 
-          HotpotQA https://hotpotqa.github.io/ 
+Datasets: - AQuaMuSe https://huggingface.co/datasets/aquamuse 
+          - HotpotQA https://hotpotqa.github.io/ 
 
-Papers: Longformer https://arxiv.org/abs/2004.05150 
-        Retrieval Augmented Generation https://arxiv.org/abs/2005.11401
-        Dense Passage Retrieval https://arxiv.org/abs/2004.04906
-        BART https://arxiv.org/abs/1910.13461
-        Exploring Nueral Methods for QFS https://arxiv.org/abs/2112.07637
+Papers: - Longformer https://arxiv.org/abs/2004.05150 
+        - Retrieval Augmented Generation https://arxiv.org/abs/2005.11401
+        - Dense Passage Retrieval https://arxiv.org/abs/2004.04906
+        - BART https://arxiv.org/abs/1910.13461
+        - Exploring Nueral Methods for QFS https://arxiv.org/abs/2112.07637
